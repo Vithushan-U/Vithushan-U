@@ -1,4 +1,4 @@
-# Welcome to My GitHub Portfolio
+# Welcome to My Business Intelligence Portfolio
 
 Hi! I'm Vithushan, a data enthusiast passionate about turning raw data into actionable insights. I specialize in using tools like **Python, Power BI,** and **Looker Studio** to analyze trends, build dashboards, and assess technology capabilities. 
 
