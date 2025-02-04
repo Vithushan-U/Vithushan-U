@@ -13,7 +13,8 @@ I focus on:
 ## 📂 My Projects  
 Each repository highlights a different tool, with projects demonstrating my skills in data analysis and technology assessment:  
 - **Python**: Data manipulation, and visualizations.  
-- **Power BI**, **Looker Studio**: Building interactive, insightful dashboards for informed decision-making.  
+- **Power BI**, **Looker Studio**: Building interactive, insightful dashboards for informed decision-making.
+- **Foursquare Studio**: Geospatial analytics. 
 
 ## 🔧 Skills & Tools  
 - **Data Wrangling**: Using tools like **Pandas** and **SQL** to clean and prepare data for analysis.  
