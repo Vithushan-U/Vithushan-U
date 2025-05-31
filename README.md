@@ -1,6 +1,6 @@
 # Welcome to My Business Intelligence Portfolio
 
-Hi! I'm Vithushan, a data enthusiast passionate about turning raw data into actionable insights. I specialize in using tools like **Python, Power BI,** and **Looker Studio** to analyze trends, build dashboards, and assess technology capabilities. 
+Hi! I'm Vithushan, an analytics enthusiast passionate about turning raw data into actionable insights. I specialize in using tools like **Python, Power BI,** and **Looker Studio** to analyze trends, build dashboards, and assess technology capabilities. 
 
 This portfolio showcases my work across different tools and technologies, with each repository demonstrating a unique data analysis project and technology assessment.
 
